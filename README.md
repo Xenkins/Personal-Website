@@ -9,4 +9,6 @@ An in-progress personal portfolio website to practice HTML, CSS, and JavaScript 
 ## Design and Implementation Inspirations
 - Nav bar: YouTuber Dev Ed
 - Mountain Background picture: Krivec Ales on Pexels.com
+- Slideshow: w3schools.com
+
 
