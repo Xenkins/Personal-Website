@@ -1,5 +1,5 @@
 # Xenkins.github.io
-An in-progress personal portfolio website to practice HTML, CSS, and JavaScript <br />
+An in-progress personal portfolio website to learn and practice HTML, CSS, and JavaScript <br />
 Website: https://xenkins.github.io
 ## Possible Future Additions and Edits
 - Make website more responsive
