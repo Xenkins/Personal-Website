@@ -2,7 +2,7 @@
 An in-progress personal portfolio website to learn and practice HTML, CSS, and JavaScript <br />
 Website: https://xenkins.github.io
 ## Possible Future Additions and Edits
-- Make website more responsive
+- Make website more responsive/mobile friendly
 - Page animations
 - Modify social link design and hover animations
 - Reintegrate nav bar in a different manner
